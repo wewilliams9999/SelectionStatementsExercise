@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exltXJsDXMzdrL3q9oOAb+mWiK5JN2ytYJ2dP/EVrHi383WUupHJlF7MFqr/D+rU9Uxp+0LL6DqDjhI2LvQpLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\SelectionStatementsExercise\\SelectionStatementsExercise\\SelectionStatementsExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
